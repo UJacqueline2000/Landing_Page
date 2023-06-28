@@ -11,4 +11,4 @@ Image integration
 Linking : Establishing navigation links btn diffent recipe pages to create a cohesive browsing experience for users.
 CSS(CastCadding Style Sheet): you will learn how to design and style ur task or work
 ## Contact 
-For more information do not hestate to ask, suggest, or share your experince with Odin_recipe: The cocktail drink Juice project, to my github account:https://github.com/UJacqueline2000/Odin_recipe/tree/main UJacqueline2000.
+For more information do not hestate to ask, suggest, or share your experince with Odin_recipe: The cocktail drink Juice project, to my github account:git@github.com:UJacqueline2000/Landing_Page.git UJacqueline2000.
