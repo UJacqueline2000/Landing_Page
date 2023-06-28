@@ -50,17 +50,9 @@
   .left p {
     font-size: 18px;
     color: #e5e7eb;
+    margin-left: 10px;
   }
-  .left button
-  {
-    background-color: #3882f6;
-    color: white;
-    border: none;
-    font-weight: bold;
-    border-radius: 3px;
-    padding: 0.4rem;
-    padding-left: 0.8rem;
-  }
+  
   .main {
     display: flex;
     align-items: center;
